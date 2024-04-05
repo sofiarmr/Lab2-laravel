@@ -1,0 +1,18 @@
+h2{
+    color: brown; 
+}
+nav ul {
+    list-style-type: none; /* Quita la viñeta de la lista */
+    padding: 0; /* Quita el espacio interior */
+    margin: 0; /* Quita el espacio exterior */
+}
+
+nav ul li {
+    display: inline; /* Muestra los elementos uno al lado del otro */
+}
+
+nav ul li a {
+    text-decoration: none; /* Quita el subrayado de los enlaces */
+    padding: 10px; /* Añade espacio entre los elementos */
+    margin-right: 10px; /* Añade espacio entre los elementos */
+}
